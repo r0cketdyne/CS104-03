@@ -6,3 +6,6 @@ useful links:
 >Structure and Interpretation of Computer Programs (Wizard Book) 🧙 
 https://sarabander.github.io/sicp/html/index.xhtml
 
+>if you can't open Spyder at OSX, Windows or Linux bc you're using a chromebook, or public computer where only browser access is feasible. You can fire up the IDE in Browser here.
+https://github.com/spyder-ide/spyder/releases/latest/download/Spyder_64bit_full.exe
+
