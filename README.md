@@ -5,6 +5,9 @@ I will include resources here that might be of use to the UAH CS community at th
 >For peeps who've never coded before, but who'd like to, you might like a guide like this in addition to our content internal to Canvas.
 https://www.reddit.com/r/learnprogramming/wiki/faq/#wiki_getting_started
 
+>The Practice of Computing Using Python 3rd Edition
+https://drive.google.com/file/d/1kkf0yIIrfpFgHtyL4Fuz3l9hrkItUPGQ/view?usp=sharing
+
 useful links:
 >Structure and Interpretation of Computer Programs (Wizard Book) 🧙 
 https://sarabander.github.io/sicp/html/index.xhtml
